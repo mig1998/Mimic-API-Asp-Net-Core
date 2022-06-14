@@ -34,7 +34,7 @@ namespace mimic_api_2
                 app.UseDeveloperExceptionPage();
             }
 
-  
+            app.UseStatusCodePages();
 
             app.UseMvc();
         }
