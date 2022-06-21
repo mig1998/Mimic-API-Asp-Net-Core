@@ -71,3 +71,4 @@ C:\Users\Miguel\source\repos\mimic api 2\mimic api 2\bin\Debug\netcoreapp3.1\run
 C:\Users\Miguel\source\repos\mimic api 2\mimic api 2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Miguel\source\repos\mimic api 2\mimic api 2\bin\Debug\netcoreapp3.1\Humanizer.dll
 C:\Users\Miguel\source\repos\mimic api 2\mimic api 2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Miguel\source\repos\mimic api 2\mimic api 2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

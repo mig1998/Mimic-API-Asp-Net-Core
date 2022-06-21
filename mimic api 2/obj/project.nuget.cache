@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I3woL3FPlKIqSoIWBDu40xU0f5YMQGmnVojMDAN7+PbLuslEXwkhq1vHRSRpBZed03rD8CkzW+w/D4bd4R+rUg==",
+  "dgSpecHash": "L33jN3cv4DSr8KJG0DP5lUsk001zXiiINOcMHYiSoF3IbipygYoJXXswmWLS4LOH4Fq6pWmo+ldu/2m7mxdKoQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Miguel\\source\\repos\\mimic api 2\\mimic api 2\\mimic api 2.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Miguel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Miguel\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

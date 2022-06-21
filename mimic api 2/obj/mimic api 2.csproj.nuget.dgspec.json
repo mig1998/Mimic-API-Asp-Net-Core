@@ -57,6 +57,10 @@
               "target": "Package",
               "version": "[5.0.12, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "entityframework": {
               "target": "Package",
               "version": "[6.4.4, )"
